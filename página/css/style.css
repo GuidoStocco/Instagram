@@ -168,3 +168,17 @@ body{
     text-align: center;
     width: 350px;
 }
+
+#get-app-container p{
+    margin: 20px 0 ;
+    font-size: 13px;
+}
+
+#get-app-container a{
+    text-decoration: none;
+}
+
+#get-app-container img{
+    width: 136px;
+    height: 40px;
+}
