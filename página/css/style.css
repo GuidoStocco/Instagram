@@ -215,3 +215,14 @@ footer #footer-links{
 }
 
 /*MOBILE*/
+
+@media (max-width: 450px) {
+    body{
+        background-color: #fff;
+    }
+
+    #banner-container{
+        display: none;
+    }
+
+}
